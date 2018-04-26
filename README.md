@@ -2,6 +2,7 @@
 Garage park distance visualizer based on HC-SR04 sonar sensor
 
 ![video](https://media.giphy.com/media/3BMlb84jMVmYVSHkPk/giphy.gif)
+https://media.giphy.com/media/3BMlb84jMVmYVSHkPk/giphy.gif
 
 * Sits at the back of the garage and displays distance to the front bumper.
 * Warns when too close.
