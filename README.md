@@ -1,7 +1,8 @@
 # arduino-hcsr04-park
 Garage park distance visualizer based on HC-SR04 sonar sensor
 
-* ![Alt Text](https://media.giphy.com/media/3BMlb84jMVmYVSHkPk/giphy.gif)
+![video](https://media.giphy.com/media/3BMlb84jMVmYVSHkPk/giphy.gif)
+
 * Sits at the back of the garage and displays distance to the front bumper.
 * Warns when too close.
 * Display goes into simple mode if sensor is blocked more than 30 seconds.
